@@ -18,6 +18,6 @@
 - Step 3
         Use this command in your linux machine/git bash to convert tflite into .cc model
         
-        >xxd -i sine_model_quantized.tflite > sine_model_quantized.cc
+        >xxd -i model_name.tflite > model_name.cc
 
     
