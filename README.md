@@ -19,5 +19,6 @@
         Use this command in your linux machine/git bash to convert tflite into .cc model
         
         >xxd -i model_name.tflite > model_name.cc
-
+- Step 4
+        Array will be generated from .cc file which will be used as a .header file 
     
